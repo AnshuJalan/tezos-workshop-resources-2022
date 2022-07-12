@@ -34,3 +34,12 @@
 - https://github.com/AnshuJalan/box-defi [Gamified Defi]
 - https://github.com/spruceid/tzprofiles [On-chain Identity]
 - https://github.com/Plenty-DeFi/plenty-interface [Broad range of Defi]
+
+## Documentations
+
+- [Smartpy](https://smartpy.io/docs) [Smart Contract language]
+- [Ligo](https://ligolang.org/docs/intro/introduction/) [Smart contract language]
+- [Taquito](https://tezostaquito.io/docs/quick_start/) [Blockchain interaction library in Javascript/Typescript]
+- [PyTezos](https://pytezos.org/contents.html) [Blockchain interaction library in Python]
+- [Temple Wallet](https://templewallet.com/) [Tezos wallet]
+- [Beacon Wallet Interface](https://docs.walletbeacon.io/) [A common interface library for all Tezos wallets]
