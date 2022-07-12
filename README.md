@@ -11,6 +11,7 @@
 
 - [Smartpy Telegram](https://t.me/SmartPy_io) [Questions regarding smart contract written in Smartpy]
 - [Taquito Telegram](https://t.me/tezostaquito) [Questions regarding Taquito library]
+- [Madfish Developers Telegram](https://t.me/madfishdev) [Questions regarding Temple Wallet and Quipuswap]
 - [BakingBad Discord](https://discord.gg/aG8XKuwsQd) [Questions regarding DipDup indexer & TzKt API]
 - [Tezos StackExchange](https://tezos.stackexchange.com) [Questions regarding anything related to Tezos]
 - [TezAsia Dev Discord](https://discord.gg/2UEY4KAQcG) [General questions and mentor support]
@@ -41,5 +42,4 @@
 - [Ligo](https://ligolang.org/docs/intro/introduction/) [Smart contract language]
 - [Taquito](https://tezostaquito.io/docs/quick_start/) [Blockchain interaction library in Javascript/Typescript]
 - [PyTezos](https://pytezos.org/contents.html) [Blockchain interaction library in Python]
-- [Temple Wallet](https://templewallet.com/) [Tezos wallet]
 - [Beacon Wallet Interface](https://docs.walletbeacon.io/) [A common interface library for all Tezos wallets]
